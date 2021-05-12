@@ -14,7 +14,8 @@ h1{
     color:rgb(233, 95, 192);
 }
 
-.group{
+.grid{
     display:flex;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
